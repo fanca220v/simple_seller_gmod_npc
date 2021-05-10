@@ -1,6 +1,6 @@
 ENT.Base 					= 'base_ai'
 ENT.Type 					= 'ai'
-ENT.PrintName 				= 'Оруженик'  
+ENT.PrintName 				= 'seller'  
 ENT.AutomaticFrameAdvance 	= true
 ENT.Spawnable 			 	= true
-ENT.Category 				= 'ПИСЬКА'
+ENT.Category 				= 'FANCA'
